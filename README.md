@@ -57,10 +57,9 @@
 
 | 📰 Publications | 🧪 Compounds | 🎓 Students | ⭐ Rating |
 |:---:|:---:|:---:|:---:|
-| **6 Papers** | **15+ Designed** | **25+ Mentored** | **4.55/5.0** |
+| **7 Papers** | **25+ Designed** | **25+ Mentored** | **4.55/5.0** |
 | ACS Omega | Bioactive | Undergrad Research | Teaching |
 | RSC Med Chem | Heterocycles | Academic Writing | Excellence |
-
 </div>
 
 ---
